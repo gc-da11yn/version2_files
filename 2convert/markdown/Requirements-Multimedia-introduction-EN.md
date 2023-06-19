@@ -1,29 +1,14 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## Short Introduction / Description
-
-This document is a great introduction on how to make accessible video for a communication advisor audience which are in between the web author and the content expert.
-
-## Categories
-
-## Target Audience
-
-## Keywords
-
-Accessibility Requirements for Audio-Video (Time-Based Media)
-
+---
+title: Introduction to accessibility requirements for audio-video
+description: This document is a great introduction on how to make accessible video for a communication advisor audience which are in between the web author and the content expert.
+category:
+  - How to's
+sub-category:
+  - Create web content
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 # Introduction
 
 The purpose of this guide is to teach you how to ensure all audio-video learning products are accessible for all learners. WCAG 2.1 and other accessibility guidelines refer to audio-video recordings, live or pre-recorded as Time-Based Media.
@@ -54,7 +39,7 @@ Whether the time-based media is accessible largely depends on the following four
 
 Summaries for each of the factors are presented here, while guidelines, checklists and samples follow later in the document.
 
-## Transcript Summary
+## Transcript summary
 
 Transcripts are the text equivalent of an audio or video file. They make it easier for people who need to access information in audio and visual media but can't hear or see the content. Ensure that transcripts include all:
 
@@ -72,7 +57,7 @@ Transcripts are the text equivalent of an audio or video file. They make it easi
 
 [Transcript Checklist](#_Transcript_Checklist)
 
-## Captioning Summary
+## Captioning summary
 
 Videos with audio require synchronized captioning (where the text aligns with the spoken words in the audio and when important actions are presented on the screen).
 
@@ -94,7 +79,7 @@ Design teams or a contractor can provide the caption text.
 
 [Captioning Checklist](#_Captioning_Checklist)
 
-## Audio Description Summary
+## Audio description summary
 
 Audio description allows any user with a visual disability or cognitive disability to receive a very detailed and descriptive experience of what is happening on the screen. During existing pauses in dialogue, audio description provides information about actions, characters, scene changes, and on-screen text that are important and are not described or spoken in the main soundtrack.
 
@@ -110,7 +95,7 @@ This can be done using:
 
 [Audio Description Checklist](#_Audio_Description_Checklist)
 
-## Keyboard Access
+## keyboard access
 
 All video controls must be accessible and navigable via the keyboard. It is the responsibility of the developer to ensure that video players are accessible such as:
 
@@ -128,6 +113,3 @@ Keyboard access is tested by the developer, design teams or a contractor.
 
 [Keyboard Access Guidelines](#_Time-based_Media_Player)
 
-Keyboard Access Checklist
-
-# 
