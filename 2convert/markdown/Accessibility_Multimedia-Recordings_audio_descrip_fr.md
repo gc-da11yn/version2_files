@@ -1,57 +1,14 @@
-﻿
-
-[Required Information]
-
-That section must be filled by the content editor/writer.
-
-The information in that section is necessary for the web developer.
-
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-- Anywhere there is link we should have the detail in bracket
-  - example:
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-**Short Introduction / Description**
-
-La description sonore permet à tout utilisateur souffrant d’un handicap visuel ou cognitif de recevoir une expérience très détaillée et descriptive de ce qui se passe à l’écran pour chaque aspect de la vidéo.
-
-category: 
-
-`  `- How to's 
-
-sub-category: 
-
-`  `- Create web content 
-
-audience: 
-
-`  `- Everyone 
-**
-
-
-**Directives pour la description sonore**
-
-
-# **Table des matières**
-[Directives pour la description sonore	4](#_toc141091595)
-
-[Définitions	4](#_toc141091596)
-
-[Norme	5](#_toc141091597)
-
-[**Liste de contrôle pour la description sonore**	6](#_toc141091598)
-
-[**Directives d’accès au clavier**	8](#_toc141091599)
-
-[**Liste de contrôle d’accès au clavier**	8](#_toc141091600)
-
-
-
-
+---
+title: Audio Description
+description: Audio description allows any user with a visual disability or cognitive disability to receive a very detailed and descriptive experience of what is happening on the screen for every aspect of the video.
+category:
+  - How to's
+sub-category:
+  - Create web content
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 # <a name="_transcript_guidelines_(how"></a><a name="_hlk141091348"></a><a name="_toc141091595"></a>Directives pour la description sonore
 La description sonore (DS) est parfois appelée vidéo décrite (VD), vidéodescription ou interprétation visuelle. Elle permet à tout utilisateur souffrant d’un handicap visuel ou cognitif de recevoir une expérience très détaillée et descriptive de ce qui se passe à l’écran pour chaque aspect de la vidéo. Un certain nombre d’organismes exigent la description sonore et la vidéo décrite, ou la description vidéo dans la vidéo, comme le [CRTC](https://crtc.gc.ca/fra/info_sht/b322.htm).
 
