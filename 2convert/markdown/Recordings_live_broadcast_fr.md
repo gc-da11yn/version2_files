@@ -24,5 +24,5 @@ Les diffusions en direct sont définies comme un animateur qui présente un Powe
 **
 
 #
-<a name="_transcript_guidelines_(how"></a>Page 2** de 2**
+
 
