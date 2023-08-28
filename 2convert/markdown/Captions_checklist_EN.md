@@ -1,5 +1,5 @@
 ---
-title: Captions Checklist
+title: Captioning Checklist
 description: Making sure you did not forget anything with your captions.
 category:
   - How to's
