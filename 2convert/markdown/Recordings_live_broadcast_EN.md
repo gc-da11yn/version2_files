@@ -23,5 +23,4 @@ audience:
 - If the event is recorded, the same rules apply as above under “Recorded Presentation”.
 
 
-Page 2** of 2**
 
