@@ -1,61 +1,14 @@
-﻿
-
-[Required Information]
-
-That section must be filled by the content editor/writer.
-
-The information in that section is necessary for the web developer.
-
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-- Anywhere there is link we should have the detail in bracket
-  - example:
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-**Short Introduction / Description**
-
-Directives sur la manière d’incorporer divers aspects de l’audio et de la vidéo dans une transcription. 
-
-category: 
-
-`  `- How to's 
-
-sub-category: 
-
-`  `- Create web content 
-
-audience: 
-
-`  `- Everyone 
-
-
-
-**Directives pour la transcription**
-
-
-
-# **Table des matières**
-[Directives pour la transcription (procédure à suivre)	4](#_toc141281701)
-
-[**Animateurs multiples**	4](#_toc141281702)
-
-[**Sons importants, actions, description**	4](#_toc141281703)
-
-[**Texte à l’écran**	4](#_toc141281704)
-
-[**En-têtes**	5](#_toc141281705)
-
-[**Liens**	5](#_toc141281706)
-
-[**Références**	5](#_toc141281707)
-
-[**Tirets et « à »**	5](#_toc141281708)
-
-
-
+---
+title: Transcript Guidelines
+description: Guidelines on how to incorporate various aspects of audio and video into a transcript.
+category:
+  - How to's
+sub-category:
+  - Create web content
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # <a name="_transcript_guidelines_(how"></a><a name="_toc141281701"></a>Directives pour la transcription (procédure à suivre)
 <a name="_hlk141281680"></a>Directives sur la manière d’incorporer divers aspects de l’audio et de la vidéo dans une transcription.
