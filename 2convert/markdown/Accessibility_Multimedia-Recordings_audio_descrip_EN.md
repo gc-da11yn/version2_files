@@ -10,20 +10,6 @@ audience:
   - Everyone
 ---
 
-# Table of Contents
-
-[Audio Description Guidelines 4](#_Toc141089151)
-
-[Definitions 4](#_Toc141089152)
-
-[Standard 5](#_Toc141089153)
-
-[Audio Description Checklist 6](#_Toc141089154)
-
-[Keyboard Access Guidelines 7](#_Toc141089155)
-
-[Keyboard Access Checklist 8](#_Toc141089156)
-
 # Audio Description Guidelines
 
 Audio description is sometimes known as described video, video description, or visual interpretation.
