@@ -1,53 +1,14 @@
-﻿
-
-[Required Information]
-
-That section must be filled by the content editor/writer.
-
-The information in that section is necessary for the web developer.
-
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-- Use only the <a name="_int_uked1wyz"></a>predefine style in <a name="_int_0fljzrjx"></a>word, Heading 1 Heading 2 etc.
-- Anywhere there is link we should have the detail in bracket
-  - example:
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-**Short Introduction / Description** 
-
-When to use sign language interpretation and bilingual videos, tools and samples of accessible videos. 
-
-category:** 
-
-`  `- How to's 
-
-sub-category:** 
-
-`  `- Create web content 
-
-audience:** 
-
-`  `- Everyone 
-
-
-
-**Language of Audio/Video Content** 
-
-
-# **Table of Contents**
-[Language of Audio/Video Content	4](#_toc141170160)
-
-[Sign language interpretation	4](#_toc141170161)
-
-[Bilingual videos	4](#_toc141170162)
-
-[Sample accessible video	4](#_toc141170163)
-
-
-
-
+---
+title: Language of Audio/Video Content
+description: When to use sign language interpretation and bilingual videos, tools and samples of accessible videos. 
+category:
+  - How to's
+sub-category:
+  - Create web content
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # <a name="_toc141170160"></a>**Language of Audio/Video Content**
 The first rule is to avoid bilingual videos.
