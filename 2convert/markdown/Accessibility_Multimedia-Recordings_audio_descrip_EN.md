@@ -10,8 +10,6 @@ audience:
   - Everyone
 ---
 
-# **Audio Description Guidelines**
-
 # Table of Contents
 
 [Audio Description Guidelines 4](#_Toc141089151)
