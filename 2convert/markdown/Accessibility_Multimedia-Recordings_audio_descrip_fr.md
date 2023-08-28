@@ -10,20 +10,6 @@ audience:
   - Everyone
 ---
 
-# Table des matières
-
-[Directives pour la description sonore. 4](file:///C:/Users/Isabel/Downloads/Accessibility_Multimedia-Recordings_audio_descrip_fr.docx#_Toc141091595) 
-
-[Définitions. 4](file:///C:/Users/Isabel/Downloads/Accessibility_Multimedia-Recordings_audio_descrip_fr.docx#_Toc141091596) 
-
-[Norme. 5](file:///C:/Users/Isabel/Downloads/Accessibility_Multimedia-Recordings_audio_descrip_fr.docx#_Toc141091597) 
-
-[**Liste de contrôle pour la description sonore**. 6](file:///C:/Users/Isabel/Downloads/Accessibility_Multimedia-Recordings_audio_descrip_fr.docx#_Toc141091598) 
-
-[**Directives d'accès au clavier**. 8](file:///C:/Users/Isabel/Downloads/Accessibility_Multimedia-Recordings_audio_descrip_fr.docx#_Toc141091599) 
-
-[**Liste de contrôle d'accès au clavier**. 8](file:///C:/Users/Isabel/Downloads/Accessibility_Multimedia-Recordings_audio_descrip_fr.docx#_Toc141091600) 
-
 # Directives pour la description sonore 
 
 La description sonore (DS) est parfois appelée vidéo décrite (VD), vidéodescription ou interprétation visuelle. Elle permet à tout utilisateur souffrant d'un handicap visuel ou cognitif de recevoir une expérience très détaillée et descriptive de ce qui se passe à l'écran pour chaque aspect de la vidéo. Un certain nombre d'organismes exigent la description sonore et la vidéo décrite, ou la description vidéo dans la vidéo, comme le [CRTC](https://crtc.gc.ca/fra/info_sht/b322.htm). 
