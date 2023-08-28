@@ -1,49 +1,14 @@
-﻿
-
-[Required Information]
-
-That section must be filled by the content editor/writer.
-
-The information in that section is necessary for the web developer.
-
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-- Anywhere there is link we should have the detail in bracket
-  - example:
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-**Short Introduction / Description**
-
-Les enregistrements appartiennent généralement à l’une des deux catégories suivantes : un événement animé en personne (vidéo standard) ou une présentation uniquement audio. Vous trouverez une définition de chaque type et ses exigences respectives en matière d’accessibilité
-
-`  `- How to's 
-
-sub-category: 
-
-`  `- Create web content 
-
-audience: 
-
-`  `- Everyone 
-
-
-
-**Enregistrements**
-
-
-
-# **Table des matières**
-[**Enregistrements**	4](#_toc141105052)
-
-[**Présentation enregistrée – Audio seulement (sans présentateur vu)**	4](#_toc141105053)
-
-[**Vidéo standard enregistrée (avec un animateur visible)**	4](#_toc141105054)
-
-
-
+---
+title: Recordings
+description: Recordings typically fall into one of two categories, an in-person facilitated event (Standard Video) or an audio-only presentation. Here is a definition of each type and their respective accessibility requirements.
+category:
+  - How to's
+sub-category:
+  - Create web content
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # <a name="_hlk141105046"></a><a name="_toc141105052"></a>**Enregistrements**
 <a name="_recorded_webex_(or"></a>Les enregistrements appartiennent généralement à l’une des deux catégories suivantes : un événement animé en personne (vidéo standard) ou une présentation uniquement audio. Nous avons défini ci-dessous chaque type et ses exigences respectives en matière d’accessibilité.
