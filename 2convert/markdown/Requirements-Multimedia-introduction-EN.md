@@ -9,6 +9,7 @@ layout: layouts/base.njk
 audience:
   - Everyone
 ---
+
 # Introduction
 
 The purpose of this guide is to teach you how to ensure all audio-video learning products are accessible for all learners. WCAG 2.1 and other accessibility guidelines refer to audio-video recordings, live or pre-recorded as Time-Based Media.

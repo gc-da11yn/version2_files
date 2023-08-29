@@ -1,30 +1,14 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## **Short Introduction / Description**
-
-We need to provide a short description for each content page, you can find example on our “[page list”](https://a11y.canada.ca/en/page-list/) that page is hidden and there for reference. You will see that some pages do not have a description ad some do. Visit the [page list](https://a11y.canada.ca/en/page-list/) to see examples.
-
-Keep it short and concise.
-
-## **Categories**
-
-## **Target Audience**
-
-## **Keywords**
-
-**Exigences d’accessibilité pour l’audio-vidéo (média temporel)**
+---
+title: Introduction aux exigences d’accessibilité pour l’audio-vidéo
+description: Ce document est une excellente introduction sur la manière de rendre la vidéo accessible à un public de conseillers en communication se situant entre l'auteur Web et l'expert en contenu.
+category:
+  - How to's
+sub-category:
+  - Create web content
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # **Introduction**
 
