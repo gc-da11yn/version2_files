@@ -43,5 +43,4 @@ audience:
 
 Deputy Minister Gina Wilson discusses the relevance of GBA+ and Canada’s place as a leader in developing policies that support diversity.
 
-<a name="_transcript_sample"></a><a name="_captioning_guidelines"></a>Page 2** of 2**
 
