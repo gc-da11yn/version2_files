@@ -31,5 +31,5 @@ Are the captions:
   - Have enough colour contrast (4.5 to 1 for small-scale text, 3:1 for large-scale text) between the video and the captions?
 - Equal:
   - the meaning and intention of the material is completely preserved?
-Page 2** of 2**
+
 
