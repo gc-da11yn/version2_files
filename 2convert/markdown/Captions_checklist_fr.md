@@ -35,5 +35,4 @@ Les sous-titres codés sont-ils :
 
 <a name="_audio_description_guidelines"></a>**
 #
-Page 2** de 2**
 
