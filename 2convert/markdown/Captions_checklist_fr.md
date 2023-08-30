@@ -32,7 +32,3 @@ Les sous-titres codés sont-ils :
   - Avec un contraste des couleurs suffisant (4,5 pour 1) entre la vidéo et les sous-titres codés?
 - Égaux?
   - Le sens et l’intention du matériel sont entièrement préservés?
-
-<a name="_audio_description_guidelines"></a>**
-#
-
