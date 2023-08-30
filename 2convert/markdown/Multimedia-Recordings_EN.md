@@ -24,5 +24,4 @@ audience:
 - Provide closed captioning of what the presenter says and include descriptive text for all relevant and important actions and/or sounds.
 - Provide a written transcript of what was said and include descriptive text of all **relevant and important** sounds and/or actions.
 
-<a name="_audio_description_guidelines"></a>Page 2** of 2**
 
