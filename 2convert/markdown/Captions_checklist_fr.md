@@ -1,6 +1,6 @@
 ---
-title: Captioning Checklist
-description: Making sure you did not forget anything with your captions.
+title: Liste de contrôle pour le sous-titrage
+description: Pour ne rien oublier avec votre sous-titrage.
 category:
   - How to's
 sub-category:
