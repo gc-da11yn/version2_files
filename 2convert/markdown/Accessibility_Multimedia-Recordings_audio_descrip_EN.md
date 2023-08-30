@@ -157,8 +157,3 @@ Does the time-based media player support (have an icon/link for)?
 - Transcripts:
   - Is the link to the transcripts descriptive?
   - Is the link immediately following or preceding the media player?
-
-#
-
-
-Page **10** of **11**
