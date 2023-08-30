@@ -132,8 +132,3 @@ Le lecteur média temporel prend-il en charge (possède-t-il une icône/un lien 
   - Le lien vers les transcriptions est-il descriptif?
   - Le lien suit-il ou précède-t-il immédiatement le lecteur multimédia?
   - Que comprend le contenu?
-
-#
-Page 2** de 2**
-
-#
