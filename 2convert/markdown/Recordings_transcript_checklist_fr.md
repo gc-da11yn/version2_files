@@ -43,5 +43,5 @@ audience:
 
 La sous-ministre Gina Wilson parle de la pertinence de l’ACS+ et de la place du Canada en tant que chef de file dans l’élaboration de politiques qui favorisent la diversité.
 
-<a name="_captioning_guidelines"></a>Page 2** de 2**
+
 
