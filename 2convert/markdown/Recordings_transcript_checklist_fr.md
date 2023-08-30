@@ -1,6 +1,6 @@
 ---
-title: Transcript Checklist
-description: A tool to make sure you did not forget anything. 
+title: Liste de contrôle des transcriptions
+description: Outil pour s’assurer de rien oublier. 
 category:
   - How to's
 sub-category:
