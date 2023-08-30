@@ -25,5 +25,4 @@ audience:
 - Fournir une transcription écrite de ce qui a été dit et inclure un texte descriptif de tous les sons et/ou actions **pertinents et importants**.
 **
 
-Page 2** de 2**
 
