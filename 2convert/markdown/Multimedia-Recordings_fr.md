@@ -1,6 +1,6 @@
 ---
-title: Recordings
-description: Recordings typically fall into one of two categories, an in-person facilitated event (Standard Video) or an audio-only presentation. Here is a definition of each type and their respective accessibility requirements.
+title: Enregistrements
+description: Les enregistrements appartiennent généralement à l’une des deux catégories suivantes un événement animé en personne (vidéo standard) ou une présentation uniquement audio. Nous avons défini ci-dessous chaque type et ses exigences respectives en matière d’accessibilité.
 category:
   - How to's
 sub-category:
@@ -10,8 +10,6 @@ audience:
   - Everyone
 ---
 
-# <a name="_hlk141105046"></a><a name="_toc141105052"></a>**Enregistrements**
-<a name="_recorded_webex_(or"></a>Les enregistrements appartiennent généralement à l’une des deux catégories suivantes : un événement animé en personne (vidéo standard) ou une présentation uniquement audio. Nous avons défini ci-dessous chaque type et ses exigences respectives en matière d’accessibilité.
 ## <a name="_toc141105053"></a>**Présentation enregistrée – Audio seulement (sans présentateur vu)**
 - Une présentation enregistrée devient une vidéo, et doit donc suivre les mêmes règles que tous les médias temporels, ce qui signifie que les éléments suivants sont nécessaires :
   - Transcription
