@@ -80,6 +80,3 @@ Les sous-titres codés sont-ils :
 - Égaux?
   - Le sens et l’intention du matériel sont entièrement préservés?
 
-<a name="_audio_description_guidelines"></a>**
-Page 2** de 2**
-
