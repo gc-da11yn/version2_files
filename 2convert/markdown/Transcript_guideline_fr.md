@@ -60,5 +60,5 @@ Incorrect : 510 avril
 
 [Ressources et liens pour les transcriptions](#_transcript_links)
 
-<a name="_transcript_checklist"></a>Page 2** de 2**
+
 
