@@ -1,42 +1,33 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## **Short Introduction / Description**
-
-Brief descriptions and characteristics of common types of cognitive disabilities.
-
-## **Category**
-
-Accessibility Fundamentals
-
-## **Sub-Category**
-
-About Disabilities
-
-## **Page Title**
-
-Cognition Disabilities
-
-## **Target Audience**
-
-Everyone
-
-## **Keywords**
-
-Intellectual disabilities, reading disability, dyslexia, dyscalculia, math disabilities, computational disabilities, ADHD, Attention Deficit Hyperactivity Disorder, autism spectrum disorders (ASD), non-verbal learning disability, adaptive technologies, cognitive disabilities, cognitive impairment, learning disability, text to speech, augmentative and alternative communication (AAC), smart pens, Asperger Syndrome (AS), speech recognition software
-
-## 
+---
+title: Cognitive Disabilities
+description: Brief descriptions and characteristics of common types of cognitive disabilities.
+category:
+  - Accessibility Fundamentals
+sub-category:
+  - About Disabilities
+Keywords: 
+  - Intellectual disabilities
+  - Reading disability
+  - Dyslexia
+  - Dyscalculia
+  - Math disabilities
+  - Computational disabilities
+  - ADHD (Attention Deficit Hyperactivity Disorder)
+  - Autism spectrum disorders (ASD)
+  - Non-verbal learning disability
+  - Adaptive technologies
+  - Cognitive disabilities
+  - Cognitive impairment
+  - Learning disability
+  - Text to speech
+  - Augmentative and alternative communication (AAC)
+  - Smart pens
+  - Asperger Syndrome (AS)
+  - Speech recognition software
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # **Cognitive Disabilities**
 

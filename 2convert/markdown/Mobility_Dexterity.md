@@ -1,32 +1,15 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## **Short Introduction / Description**
-
-Brief descriptions and characteristics of common types of mobility, flexibility, and body structure disabilities.
-
-## **Categories**
-
-Disability awareness
-
-## **Target Audience / Role**
-
-General public
-
-## **Tagging**
-
-Fundamentals, disabilities
+---
+title: Mobility, Flexibility, and Body Structure Disabilities
+description: Brief descriptions and characteristics of common types of mobility, flexibility, and body structure disabilities.
+category:
+  - Disability awareness
+Tagging:
+  - Fundamentals
+  - Disabilities
+layout: layouts/base.njk
+audience:
+  - General public
+---
 
 # Mobility, Flexibility, and Body Structure Disabilities
 
