@@ -1,4 +1,5 @@
 ---
+
 title: Audio Description Guidelines
 description: Audio description allows any user with a visual disability or cognitive disability to receive a very detailed and descriptive experience of what is happening on the screen for every aspect of the video.
 category:
@@ -9,24 +10,6 @@ layout: layouts/base.njk
 audience:
   - Everyone
 ---
-
-# **Audio Description Guidelines**
-
-# Table of Contents
-
-[Audio Description Guidelines 4](#_Toc141089151)
-
-[Definitions 4](#_Toc141089152)
-
-[Standard 5](#_Toc141089153)
-
-[Audio Description Checklist 6](#_Toc141089154)
-
-[Keyboard Access Guidelines 7](#_Toc141089155)
-
-[Keyboard Access Checklist 8](#_Toc141089156)
-
-# Audio Description Guidelines
 
 Audio description is sometimes known as described video, video description, or visual interpretation.
 
@@ -173,8 +156,3 @@ Does the time-based media player support (have an icon/link for)?
 - Transcripts:
   - Is the link to the transcripts descriptive?
   - Is the link immediately following or preceding the media player?
-
-#
-
-
-Page **10** of **11**
