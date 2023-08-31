@@ -1,5 +1,6 @@
 ---
-title: Audio Description
+
+title: Audio Description Guidelines
 description: Audio description allows any user with a visual disability or cognitive disability to receive a very detailed and descriptive experience of what is happening on the screen for every aspect of the video.
 category:
   - How to's
@@ -9,8 +10,6 @@ layout: layouts/base.njk
 audience:
   - Everyone
 ---
-
-# Audio Description Guidelines
 
 Audio description is sometimes known as described video, video description, or visual interpretation.
 

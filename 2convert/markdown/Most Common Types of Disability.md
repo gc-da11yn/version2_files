@@ -1,40 +1,23 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## **Short Introduction / Description**
-
-Brief introduction and links to the most common types of disabilities.
-
-## **Category**
-
-Accessibility Fundamentals
-
-## **Sub-Category**
-
-About Disabilities
-
-## **Page Title**
-
-Most Common Types of Disability
-
-## **Target Audience**
-
-Everyone
-
-## **Keywords**
-
-Auditory disabilities, visual impairments, mobility disabilities, flexibility disabilities, body structure disabilities, cognitive disabilities, vision loss, dyslexia
+---
+title: Most Common Types of Disability
+description: Brief introduction and links to the most common types of disabilities.
+category:
+  - Accessibility Fundamentals
+sub-category:
+  - About Disabilities
+Keywords: 
+  - Auditory disabilities
+  - Visual impairments
+  - Mobility disabilities
+  - Flexibility disabilities
+  - Body structure disabilities
+  - Cognitive disabilities
+  - Vision loss
+  - Dyslexia
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # Most Common Types of Disability
 

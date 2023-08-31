@@ -1,40 +1,23 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## **Short Introduction / Description**
-
-Brève introduction et liens vers les types de handicaps les plus courants.
-
-## **Category**
-
-Accessibility Fundamentals
-
-## **Sub-Category**
-
-About Disabilities
-
-## **Page Title**
-
-Types d'invalidité les plus courants
-
-## **Target Audience**
-
-Everyone
-
-## **Keywords**
-
-Déficiences auditives, déficiences visuelles, handicaps de mobilité, handicaps de flexibilité, handicaps de structure corporelle, handicaps cognitifs, perte de vision, dyslexie
+---
+title: Types d'invalidité les plus courants
+description: Brève introduction et liens vers les types de handicaps les plus courants.
+category:
+  - Accessibility Fundamentals
+sub-category:
+  - About Disabilities
+Keywords: 
+  - Déficiences auditives
+  - Déficiences visuelles
+  - Handicaps de mobilité
+  - Handicaps de flexibilité
+  - Handicaps de structure corporelle
+  - Handicaps cognitifs
+  - Perte de vision
+  - Dyslexie
+layout: layouts/base.njk
+audience:
+  - Everyone
+---
 
 # Types d'invalidité les plus courants
 

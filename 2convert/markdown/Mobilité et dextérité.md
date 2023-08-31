@@ -1,32 +1,27 @@
-While you are reviewing the content make sure you apply some best practices:
-
-- HTML first, if you have an alternative version (word, pdf) a link will be on the page.
-
-- Use only the predefine style in word, Heading 1 Heading 2 etc.
-
-- Anywhere there is link we should have the detail in bracket
-
-  - example:
-
-    - [*EN 301 549* (PDF, 2.3MB)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-    - [*EN 301 549* (PDF 2.3Mo) (disponible seulement en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
-
-## Short Introduction / Description
-
-Brèves descriptions et caractéristiques des types courants de handicaps de mobilité, de flexibilité et de structure corporelle.
-
-## Categories
-
-Sensibilisation aux handicaps
-
-## Target Audience
-
-Tout le monde
-
-## Keywords
-
-mobilité, flexibilité, structure du corps, structure du squelette, dextérité manuelle, contrôle de la motricité fine, ambulation, fatigue musculaire, taille du corps, forme du corps, technologies adaptatives, clavier adaptatif, dispositif de commutation, logiciel de reconnaissance vocale
+---
+title: Handicaps de mobilité, de flexibilité et de structure corporelle
+description: Brèves descriptions et caractéristiques des types courants de handicaps de mobilité, de flexibilité et de structure corporelle.
+category:
+  - Disability awareness
+Keywords:
+  - Mobilité
+  - flexibilité
+  - structure du corps
+  - structure du squelette
+  - dextérité manuelle
+  - contrôle de la motricité fine
+  - ambulation
+  - fatigue musculaire
+  - taille du corps
+  - forme du corps
+  - technologies adaptatives
+  - clavier adaptatif
+  - dispositif de commutation
+  - logiciel de reconnaissance vocale
+layout: layouts/base.njk
+audience:
+  - General public
+---
 
 # Handicaps de mobilité, de flexibilité et de structure corporelle
 
