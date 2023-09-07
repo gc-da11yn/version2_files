@@ -1,6 +1,6 @@
 ---
-title: Audio Description
-description: Audio description allows any user with a visual disability or cognitive disability to receive a very detailed and descriptive experience of what is happening on the screen for every aspect of the video.
+title: Directives pour la description sonore
+description: La description sonore permet à tout utilisateur souffrant d’un handicap visuel ou cognitif de recevoir une expérience très détaillée et descriptive de ce qui se passe à l’écran pour chaque aspect de la vidéo.
 category:
   - How to's
 sub-category:
